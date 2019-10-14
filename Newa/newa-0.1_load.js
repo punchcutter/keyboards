@@ -1,0 +1,1 @@
+KeymanWeb.KRS(new Stub_Keyboard_newa()); function Stub_Keyboard_newa() {this.KF="newa-0.1.js";this.KI="Keyboard_newa";this.KN="Newa - QWERTY";}
